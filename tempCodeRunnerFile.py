@@ -1,0 +1,1 @@
+MENU_MOUSE_POS = pygame.mouse.get_pos()
